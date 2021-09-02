@@ -1,0 +1,7 @@
+C:\ASACONSULTORIA\C#\AluraAula2\12-CalculaPoupanca2\bin\Debug\12-CalculaPoupanca2.exe.config
+C:\ASACONSULTORIA\C#\AluraAula2\12-CalculaPoupanca2\bin\Debug\12-CalculaPoupanca2.exe
+C:\ASACONSULTORIA\C#\AluraAula2\12-CalculaPoupanca2\bin\Debug\12-CalculaPoupanca2.pdb
+C:\ASACONSULTORIA\C#\AluraAula2\12-CalculaPoupanca2\obj\Debug\12-CalculaPoupanca2.csproj.CoreCompileInputs.cache
+C:\ASACONSULTORIA\C#\AluraAula2\12-CalculaPoupanca2\obj\Debug\12-CalculaPoupanca2.exe
+C:\ASACONSULTORIA\C#\AluraAula2\12-CalculaPoupanca2\obj\Debug\12-CalculaPoupanca2.pdb
+C:\ASACONSULTORIA\C#\AluraAula2\12-CalculaPoupanca2\obj\Debug\12-CalculaPoupanca2.csprojAssemblyReference.cache

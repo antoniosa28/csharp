@@ -1,0 +1,7 @@
+C:\ASACONSULTORIA\C#\AluraAula2\15-Multiplode03\bin\Debug\15-Multiplode03.exe.config
+C:\ASACONSULTORIA\C#\AluraAula2\15-Multiplode03\bin\Debug\15-Multiplode03.exe
+C:\ASACONSULTORIA\C#\AluraAula2\15-Multiplode03\bin\Debug\15-Multiplode03.pdb
+C:\ASACONSULTORIA\C#\AluraAula2\15-Multiplode03\obj\Debug\15-Multiplode03.csprojAssemblyReference.cache
+C:\ASACONSULTORIA\C#\AluraAula2\15-Multiplode03\obj\Debug\15-Multiplode03.csproj.CoreCompileInputs.cache
+C:\ASACONSULTORIA\C#\AluraAula2\15-Multiplode03\obj\Debug\15-Multiplode03.exe
+C:\ASACONSULTORIA\C#\AluraAula2\15-Multiplode03\obj\Debug\15-Multiplode03.pdb

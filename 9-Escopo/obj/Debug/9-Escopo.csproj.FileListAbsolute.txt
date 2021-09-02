@@ -1,0 +1,7 @@
+C:\ASACONSULTORIA\C#\AluraAula2\9-Escopo\bin\Debug\9-Escopo.exe.config
+C:\ASACONSULTORIA\C#\AluraAula2\9-Escopo\bin\Debug\9-Escopo.exe
+C:\ASACONSULTORIA\C#\AluraAula2\9-Escopo\bin\Debug\9-Escopo.pdb
+C:\ASACONSULTORIA\C#\AluraAula2\9-Escopo\obj\Debug\9-Escopo.csprojAssemblyReference.cache
+C:\ASACONSULTORIA\C#\AluraAula2\9-Escopo\obj\Debug\9-Escopo.csproj.CoreCompileInputs.cache
+C:\ASACONSULTORIA\C#\AluraAula2\9-Escopo\obj\Debug\9-Escopo.exe
+C:\ASACONSULTORIA\C#\AluraAula2\9-Escopo\obj\Debug\9-Escopo.pdb

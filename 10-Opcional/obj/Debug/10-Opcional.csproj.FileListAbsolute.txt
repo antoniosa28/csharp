@@ -1,0 +1,6 @@
+C:\ASACONSULTORIA\C#\AluraAula2\10-Opcional\bin\Debug\10-Opcional.exe.config
+C:\ASACONSULTORIA\C#\AluraAula2\10-Opcional\bin\Debug\10-Opcional.exe
+C:\ASACONSULTORIA\C#\AluraAula2\10-Opcional\bin\Debug\10-Opcional.pdb
+C:\ASACONSULTORIA\C#\AluraAula2\10-Opcional\obj\Debug\10-Opcional.csproj.CoreCompileInputs.cache
+C:\ASACONSULTORIA\C#\AluraAula2\10-Opcional\obj\Debug\10-Opcional.exe
+C:\ASACONSULTORIA\C#\AluraAula2\10-Opcional\obj\Debug\10-Opcional.pdb

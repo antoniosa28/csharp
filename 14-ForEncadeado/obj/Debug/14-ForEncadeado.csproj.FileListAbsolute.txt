@@ -1,0 +1,7 @@
+C:\ASACONSULTORIA\C#\AluraAula2\14-ForEncadeado\bin\Debug\14-ForEncadeado.exe.config
+C:\ASACONSULTORIA\C#\AluraAula2\14-ForEncadeado\bin\Debug\14-ForEncadeado.exe
+C:\ASACONSULTORIA\C#\AluraAula2\14-ForEncadeado\bin\Debug\14-ForEncadeado.pdb
+C:\ASACONSULTORIA\C#\AluraAula2\14-ForEncadeado\obj\Debug\14-ForEncadeado.csproj.CoreCompileInputs.cache
+C:\ASACONSULTORIA\C#\AluraAula2\14-ForEncadeado\obj\Debug\14-ForEncadeado.exe
+C:\ASACONSULTORIA\C#\AluraAula2\14-ForEncadeado\obj\Debug\14-ForEncadeado.pdb
+C:\ASACONSULTORIA\C#\AluraAula2\14-ForEncadeado\obj\Debug\14-ForEncadeado.csprojAssemblyReference.cache
