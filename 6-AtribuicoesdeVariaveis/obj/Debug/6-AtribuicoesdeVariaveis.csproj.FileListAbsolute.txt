@@ -1,0 +1,7 @@
+C:\ASACONSULTORIA\C#\AluraAula2\6-AtribuicoesdeVariaveis\obj\Debug\6-AtribuicoesdeVariaveis.csproj.CoreCompileInputs.cache
+C:\ASACONSULTORIA\C#\AluraAula2\6-AtribuicoesdeVariaveis\obj\Debug\6-AtribuicoesdeVariaveis.csprojAssemblyReference.cache
+C:\ASACONSULTORIA\C#\AluraAula2\6-AtribuicoesdeVariaveis\bin\Debug\6-AtribuicoesdeVariaveis.exe.config
+C:\ASACONSULTORIA\C#\AluraAula2\6-AtribuicoesdeVariaveis\bin\Debug\6-AtribuicoesdeVariaveis.exe
+C:\ASACONSULTORIA\C#\AluraAula2\6-AtribuicoesdeVariaveis\bin\Debug\6-AtribuicoesdeVariaveis.pdb
+C:\ASACONSULTORIA\C#\AluraAula2\6-AtribuicoesdeVariaveis\obj\Debug\6-AtribuicoesdeVariaveis.exe
+C:\ASACONSULTORIA\C#\AluraAula2\6-AtribuicoesdeVariaveis\obj\Debug\6-AtribuicoesdeVariaveis.pdb
