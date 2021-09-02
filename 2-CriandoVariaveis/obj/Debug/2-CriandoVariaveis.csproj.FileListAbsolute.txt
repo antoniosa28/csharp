@@ -1,0 +1,7 @@
+C:\ASACONSULTORIA\C#\AluraAula2\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.exe.config
+C:\ASACONSULTORIA\C#\AluraAula2\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.exe
+C:\ASACONSULTORIA\C#\AluraAula2\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.pdb
+C:\ASACONSULTORIA\C#\AluraAula2\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\ASACONSULTORIA\C#\AluraAula2\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.exe
+C:\ASACONSULTORIA\C#\AluraAula2\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.pdb
+C:\ASACONSULTORIA\C#\AluraAula2\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.csprojAssemblyReference.cache
