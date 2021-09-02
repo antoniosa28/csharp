@@ -1,0 +1,7 @@
+C:\ASACONSULTORIA\C#\AluraAula2\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.exe.config
+C:\ASACONSULTORIA\C#\AluraAula2\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.exe
+C:\ASACONSULTORIA\C#\AluraAula2\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.pdb
+C:\ASACONSULTORIA\C#\AluraAula2\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.csprojAssemblyReference.cache
+C:\ASACONSULTORIA\C#\AluraAula2\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.csproj.CoreCompileInputs.cache
+C:\ASACONSULTORIA\C#\AluraAula2\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.exe
+C:\ASACONSULTORIA\C#\AluraAula2\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.pdb
